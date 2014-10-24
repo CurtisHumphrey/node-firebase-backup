@@ -1,0 +1,12 @@
+{
+  "name": "firebase_backup",
+  "version": "0.1.0",
+  "description": "backs up a firebase database",
+  "main": "firebase-backup.coffee",
+  "dependencies": {
+    "firebase": "~1.1.2"
+  },
+  "devDependencies": {},
+  "author": "Curtis M. Humphrey, Ph.D.",
+  "license": "MIT"
+}
